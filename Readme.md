@@ -16,8 +16,8 @@ i have made some changed to the original design to make more interesting
 
 this project was created using some basic web languages
 
-<a href="#" style="background-color:#f98034; padding: 5px 10px; color:#FFFFFF; border-radius: 5px;">HTML</a>
+<p href="#" style="background-color:#f98034; padding: 5px 10px; color:#FFFFFF; border-radius: 5px;">HTML</p>
 <br/>
-<a href="#" style="background-color:#2965f1; padding: 5px 10px; color:#FFFFFF; border-radius: 5px;">CSS</a>
+<p href="#" style="background-color:#2965f1; padding: 5px 10px; color:#FFFFFF; border-radius: 5px;">CSS</p>
 <br/>
-<a href="#" style="background-color:#f0db4f; padding: 5px 10px; color:#FFFFFF; border-radius: 5px;">JS</a>
+<p href="#" style="background-color:#f0db4f; padding: 5px 10px; color:#FFFFFF; border-radius: 5px;">JS</p>
